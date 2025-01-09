@@ -1,0 +1,2 @@
+# ImageEncryption_Embedding_Extraction
+将加密图片上传到平台，平台嵌入秘密信息（水印之类），不破坏原有加密图片可恢复性
